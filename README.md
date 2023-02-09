@@ -20,4 +20,4 @@ Because this application won’t be deployed, you’ll also need to provide a li
 
 ### Here is the link to a video demonstrating the final version of the project.
 
-[Click here to watch a video demonstrating the E-Commerce Back End application.](https://drive.google.com/file/d/1sOMlGEQ7p0fx0-6T7Fk53j-BqM57Q5iz/view)
+[Click here to watch a video demonstrating the E-Commerce Back End application.](https://drive.google.com/file/d/1uJRQu_9GPe4QnX01O9m4qOLC0M7pWRvn/view)
