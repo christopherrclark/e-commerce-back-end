@@ -1,22 +1,25 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
-
-## Your Task
-
-Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
-
-Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
-
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
-
 # E-Commerce Back End
 
 ## Project Summary
 
-Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
+The goal of this project was to build the the back end of an e-commerce site by modifying the starter code we were given. This project includes using Sequelize, MySQL2, Express, and dotenv packages and testing using Insomnia. I configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
-Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
+Because this application won’t be deployed, I also provided a link below to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. 
 
-Because this application won’t be deployed, you’ll also need to provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. You’ll need to submit a link to the video and add it to the readme of your project.
+### Acceptance Criteria
+* How to create the schema from the MySQL shell. 
+* `mysql -u root -p`, 
+* `use ecommerce_db`, 
+* `source db/schema.sql`, 
+* `quit`
+* How to seed the database from the command line. 
+* `npm run seed`
+* How to start the application’s server. 
+* `npm start`
+* GET routes for all categories, all products, and all tags being tested in Insomnia.
+* GET routes for a single category, a single product, and a single tag being tested in Insomnia.
+* POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
+
 
 ### Here is the link to a video demonstrating the final version of the project.
 
